@@ -1,5 +1,6 @@
 package dev.labs.s3.anonymousclassexample;
 
+// Source: https://docs.oracle.com/javase/8/javafx/get-started-tutorial/hello_world.htm
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
